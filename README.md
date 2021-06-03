@@ -1,2 +1,2 @@
 # Streamlit
-Streamlit Learning
+Learning Streamlit package
